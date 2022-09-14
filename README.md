@@ -1,4 +1,4 @@
-##### CACHE() VS PERSIT
+##### CACHE() VS PERSIST
 For (interactive and iterative) Spark calculations, optimization strategies like caching or persistence are used. They assist in preserving interim partial results for reuse in later phases. Thus, these interim results as RDDs are copied, stored on disk, or maintained in memory (the default).
 
 Both persist() and cache() are the Spark optimization technique, used to store the data, but only difference is cache() method by default stores the data in-memory (MEMORY_ONLY) whereas in persist() method developer can define the storage level to in-memory or in-disk.
