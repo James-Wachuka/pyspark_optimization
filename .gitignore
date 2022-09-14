@@ -3,4 +3,4 @@ lib/
 Scripts/
 share/
 spark-warehouse/
-pyenv.cfg
+pyvenv.cfg

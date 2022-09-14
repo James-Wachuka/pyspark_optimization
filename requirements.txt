@@ -1,0 +1,10 @@
+findspark==2.0.1
+mysql-connector-python==8.0.30
+numpy==1.23.3
+pandas==1.4.4
+protobuf==3.20.1
+py4j==0.10.9.5
+pyspark==3.3.0
+python-dateutil==2.8.2
+pytz==2022.2.1
+six==1.16.0
